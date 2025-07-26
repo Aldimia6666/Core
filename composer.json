@@ -1,8 +1,8 @@
 {
-    "name": "Alassane06/core",
+    "name": "PereCastor/core",
     "autoload": {
         "psr-4": {
-            "Alassane06\\Core\\": "src/"
+            "PereCastor\\Core\\": "src/"
         }
     },
     "authors": [
