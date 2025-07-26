@@ -12,6 +12,7 @@
         }
     ],
     "require": {},
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "type": "project"
 }
