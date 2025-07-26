@@ -1,8 +1,8 @@
 {
-    "name": "PereCastor/core",
+    "name": "aloudev/appdaf",
     "autoload": {
         "psr-4": {
-            "PereCastor\\Core\\": "src/"
+            "Alou\\Core\\": "src/"
         }
     },
     "authors": [
