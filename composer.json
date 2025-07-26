@@ -1,0 +1,17 @@
+{
+    "name": "Alassane06/core",
+    "autoload": {
+        "psr-4": {
+            "Alassane06\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alou66",
+            "email": "asdousseynou66@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "stable",
+    "type": "project"
+}
